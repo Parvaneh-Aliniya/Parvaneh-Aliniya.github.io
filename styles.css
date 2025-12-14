@@ -103,9 +103,8 @@ a img{
 }
 
 .ta:hover {
-	color:rgb(28,238,120);
+	color:rgb(21, 207, 98);
 }
-
 #imageContainer {
 	width: 100%; 
 	max-width: 1200px;
